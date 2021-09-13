@@ -1,7 +1,7 @@
 # NFTGame-Starter
 A barebones starter kit for developing an NFTGame
 ## Specifications
-Users should be able to log into the unity3D NFT GameStarter with metamask or walletconnect.
+Users should be able to log into the unity3D NFTGame-Starter with metamask or walletconnect.
 ## Resources
 Developed on the polygon network. Polygon is a great starting point due to greatly reduced gas fees. Over time other networks will be added.  
 * To access the polygon testnet on metamask  
